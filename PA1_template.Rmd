@@ -3,7 +3,7 @@ title: "Reproducible Research Course Project 1"
 author: "giovanni barrero ortiz"
 date: "3/7/2021"
 output: html_document
----
+---    
 
 
 ## Loading and preprocessing the data
